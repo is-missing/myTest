@@ -1,5 +1,7 @@
 <template>
-    <div>page</div>
+    <div>
+        这是cc组件
+    </div>
 </template>
 
 <script setup>
